@@ -1,0 +1,5 @@
+- This repository hosts a wide range of educational references.
+- It includes materials such as course content, graded assignment answers, question papers, textbooks, and more.
+- Serving as a centralized hub, it offers convenient access to diverse resources essential for academic pursuits.
+- Learners can utilize it for clarification on coursework, access to past assessments, and supplementary reading materials.
+- The repository aims to support students in their quest for understanding and excellence within their fields of study.
