@@ -1,4 +1,4 @@
-- This repository hosts a wide range of educational references.
+- This repository hosts a wide range of educational references which is for educational purpose only.
 - It includes materials such as course content, graded assignment answers, question papers, textbooks, and more.
 - Serving as a centralized hub, it offers convenient access to diverse resources essential for academic pursuits.
 - Learners can utilize it for clarification on coursework, access to past assessments, and supplementary reading materials.
